@@ -4,6 +4,6 @@
 This bot will also tell you the current temperature of any city. </p>
 <br>
 <b><h4>For weather </h4></b>
-<p> Just type : weather city_name,<br>
+<p> Just type : weather city_name<br>
 <i>Example weather biratnagar</i>
 </p>
